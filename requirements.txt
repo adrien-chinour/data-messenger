@@ -1,0 +1,4 @@
+numpy
+minio
+google-cloud-bigquery
+python-dotenv
